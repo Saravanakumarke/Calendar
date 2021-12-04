@@ -15,6 +15,8 @@ This is a simple task of creating Calendar dairy app
 
 ## Steps to clone and run the application
 
+ Clone repo Link [Link](https://github.com/Saravanakumarke/Calendar)
+ 
 - npm install
 
 - npm start
