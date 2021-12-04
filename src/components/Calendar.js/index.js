@@ -117,9 +117,9 @@ export default function Calendarapp() {
         </ViewsDirective>
         <Inject services={[Day, Week, WorkWeek, Month, Agenda]} />
       </ScheduleComponent>
-      {/* <div className={styles.demo}>
+       <div className={styles.demo}>
         <Slider size="sm" slideimages={slideimages} dot={true} />
-      </div> */}
+      </div> 
     </div>
   );
 }
