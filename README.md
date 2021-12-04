@@ -25,6 +25,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Demo app link [Link](https://calendardairy.netlify.app/)
 
+### On Double click on appointment, popup will display and you can see what are appointment at that day.
+
 ## Contact
 
 ### Email - saravanaeswari22@gmail.com
